@@ -101,3 +101,14 @@ body {
     grid-row: 2 / 3;
   }
 }
+
+@media (min-width: 1024px) {
+  .theater {
+    grid-column: 1 / 5;
+  }
+
+  .info__top,
+  .info__bottom {
+    grid-column: 5 / 7;
+  }
+}
