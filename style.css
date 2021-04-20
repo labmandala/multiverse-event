@@ -65,12 +65,14 @@ body {
 
 .info__link {
   border: 1px solid #fff;
+  border-radius: 15px;
   text-decoration: none;
   color: #fff;
   padding: 12px;
   text-align: center;
   margin-top: 24px;
   display: block;
+  background-color: #001f54;
 }
 
 /* LAYOUT */
